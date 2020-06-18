@@ -3,3 +3,4 @@ Friday,Sat,Sun:
 2. Get familiar with GitHub - test the pull-command from windowsgit to download git-file to computer, and try push-sommand to uploas new version from computer to GitHub.
 3. Some ideas to github-folders
 4. Subcodes to start working with (ex: data-extraction, data-manipulation, easy visulaization)
+5. Find out when to use Google Colab and when to use Jupyter, and how to upload and download Jupyter from GitHub
